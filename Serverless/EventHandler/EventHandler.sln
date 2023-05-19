@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelCreatedEventHandler", "HotelCreatedEventHandler\HotelCreatedEventHandler.csproj", "{6DCC6133-79A4-417F-891E-0E8E24E2AABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DCC6133-79A4-417F-891E-0E8E24E2AABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCC6133-79A4-417F-891E-0E8E24E2AABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DCC6133-79A4-417F-891E-0E8E24E2AABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DCC6133-79A4-417F-891E-0E8E24E2AABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CCE6626-C380-4E76-BCB6-49DB2DF2DAC1}
+	EndGlobalSection
+EndGlobal

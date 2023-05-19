@@ -1,0 +1,1 @@
+dotnet lambda package HotelMan_HotelAdmin.csproj -o HotelAdmin.zip
